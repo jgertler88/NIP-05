@@ -2,8 +2,8 @@
   "status":"OK",
   "tag":"payRequest",
   "commentAllowed":255,
-  "callback":"https://getalby.com/lnurlp/jg88/callback",
-  "metadata":"[[\"text/identifier\", \"jg88@getalby.com\"], [\"text/plain\", \"Sats for jg88\"]]",
+  "callback":"https://getalby.com/lnurlp/jgertler/callback",
+  "metadata":"[[\"text/identifier\", \"jgertler@getalby.com\"], [\"text/plain\", \"Sats for jg88\"]]",
   "minSendable":1000,"maxSendable":11000000000,
   "payerData":
     {
